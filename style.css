@@ -1,0 +1,21 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width:1200px;
+    margin:auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box1{
+    width:25%;
+    margin:auto;
+}
+
+.box1{
+    background-color:antiquewhite;
+    border:2px solid burlywood;
+    padding: 20px;
+}
